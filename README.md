@@ -1,5 +1,4 @@
 <p align="center">
-    I'm releasing a Verification bot, a music bot, a ticket tool, and a reaction roles bot tomorrow!
 </p>
 <div>
   <p align="center">
@@ -19,6 +18,7 @@
 <a href="https://github.com/kingcharaf99">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingcharaf99&show_icons=true&include_all_commits=true&show_icons=true&title_color=ff0000&icon_color=11ff00&text_color=ffff00&bg_color=000000" alt="Statistics." />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingcharaf99&show_icons=true&show_icons=true&title_color=ff0000&icon_color=11ff00&text_color=ffff00&bg_color=000000&hide_border=true" alt="Statistics." />
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/587391668949483545?theme=dark&bg=000000&hideDiscrim=true&borderRadius=0px&animated=true)](https://discord.com/users/587391668949483545)
 </a>
 </p>
 </details>
