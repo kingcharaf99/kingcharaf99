@@ -1,3 +1,4 @@
+# I'm releasing a Verification bot, a music bot, a ticket tool, and a reaction roles bot tomorrow!
 <div>
   <p align="center">
     <h1 align="center" >Jeel's Profile</h1>
