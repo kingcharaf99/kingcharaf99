@@ -1,4 +1,6 @@
-# I'm releasing a Verification bot, a music bot, a ticket tool, and a reaction roles bot tomorrow!
+<p align="center">
+    I'm releasing a Verification bot, a music bot, a ticket tool, and a reaction roles bot tomorrow!
+</p>
 <div>
   <p align="center">
     <h1 align="center" >Jeel's Profile</h1>
