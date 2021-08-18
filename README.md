@@ -23,6 +23,7 @@
 </p>
 </details>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kingcharaf99)
 
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact Me</summary>
