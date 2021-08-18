@@ -19,11 +19,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingcharaf99&show_icons=true&include_all_commits=true&show_icons=true&title_color=ff0000&icon_color=11ff00&text_color=ffff00&bg_color=000000" alt="Statistics." />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingcharaf99&show_icons=true&show_icons=true&title_color=ff0000&icon_color=11ff00&text_color=ffff00&bg_color=000000&hide_border=true" alt="Statistics." />
   <img align="center" src="https://lanyard-profile-readme.vercel.app/api/587391668949483545?theme=dark&bg=000000&hideDiscrim=true&borderRadius=0px&animated=true" alt="Statistics." />
+  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=kingcharaf99" alt="Statistics." />
 </a>
 </p>
 </details>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kingcharaf99)
 
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact Me</summary>
