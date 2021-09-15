@@ -5,7 +5,7 @@
     <h1 align="center" >Jeel's Profile</h1>
     <br>
     <div align="left">
-   Hello! I'm Jeel, I'm still learning coding. By the end of the summer, I want to be experienced in JS, and HTML, since I also want to have my own Discord bot with it's own website. Check out my <a href="https://kingcharaf99.github.io">github.io website</a>! <sup>I took some of my code from <a href="https://github.com/peterhanania">Peter</a>. </sup>
+   Hello! I'm Jeel, I'm still learning coding. By the end of the summer, I want to be experienced in JS, and HTML, since I also want to have my own Discord bot with it's own website. Check out my <a href="https://kingcharaf99.github.io">github.io website</a>! <sub>I took some of my code from <a href="https://github.com/peterhanania">Peter</a>. </sub>
     </div>
   </p>
   
