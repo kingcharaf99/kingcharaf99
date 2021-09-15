@@ -6,7 +6,7 @@
     <br>
     <div align="left">
    Hello! I'm Jeel, I'm still learning coding. By the end of the summer, I want to be experienced in JS, and HTML, since I also want to have my own Discord bot with it's own website. Check out my <a href="https://kingcharaf99.github.io">github.io website</a>!
-I took some of my code from <a href="https://github.com/peterhanania">Peter</a>. 
+<br> I took some of my code from <a href="https://github.com/peterhanania">Peter</a>. 
     </div>
   </p>
   
